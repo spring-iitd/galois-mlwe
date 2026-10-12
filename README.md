@@ -221,7 +221,5 @@ that case is not settled here.
 
 ## License
 
-Code is released under the MIT License — see [LICENSE](LICENSE).
-
-The paper itself is published under
+The paper is published under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
